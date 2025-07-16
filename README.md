@@ -12,7 +12,7 @@
 - Passionate about crafting robust **backend systems**, dynamic **frontend experiences**, and proficient in **Database Systems**.
 - Reach me at: **nghiemdominh.work@gmail.com**
 ---
-
+<h3 align="center">🌐 Connect with me</h3>
 <p align="center">
   <a href="https://linkedin.com/in/dominhnghiem" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
